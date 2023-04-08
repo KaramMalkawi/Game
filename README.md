@@ -1,4 +1,4 @@
-# Game
+# Word Guesser Challenge
 
 The code includes two classes: "Words" and "GuessTheWord".
 
